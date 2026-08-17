@@ -1,0 +1,152 @@
+/* ============================================
+   Site header
+   ============================================ */
+
+.site-header {
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  background: rgba(247,243,234,0.92);
+  backdrop-filter: blur(8px);
+  border-bottom: 1px solid var(--sand);
+}
+
+.site-header__bar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-block: 1.1rem;
+  gap: 1.5rem;
+}
+
+.logo {
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+  font-family: var(--font-display);
+  font-weight: 600;
+  font-size: 1.35rem;
+  color: var(--pine-dark);
+  flex-shrink: 0;
+}
+.logo__mark {
+  width: 34px;
+  height: 34px;
+  flex-shrink: 0;
+}
+
+.main-nav {
+  display: flex;
+  align-items: center;
+  gap: clamp(1rem, 2vw, 2rem);
+}
+.main-nav a {
+  font-size: var(--step--1);
+  font-weight: 600;
+  color: var(--ink);
+  position: relative;
+  padding: 0.3rem 0;
+}
+.main-nav a::after {
+  content: "";
+  position: absolute;
+  left: 0; right: 0; bottom: -2px;
+  height: 2px;
+  background: var(--vermilion);
+  transform: scaleX(0);
+  transform-origin: right;
+  transition: transform 0.3s var(--ease);
+}
+.main-nav a:hover::after, .main-nav a[aria-current="page"]::after { transform: scaleX(1); transform-origin: left; }
+.main-nav a[aria-current="page"] { color: var(--vermilion); }
+
+.nav-cta { display: flex; align-items: center; gap: 0.75rem; flex-shrink: 0; }
+
+.nav-toggle {
+  display: none;
+  flex-direction: column;
+  gap: 5px;
+  padding: 0.4rem;
+}
+.nav-toggle span { width: 22px; height: 2px; background: var(--ink); border-radius: 2px; }
+
+@media (max-width: 860px) {
+  .main-nav {
+    position: fixed;
+    inset: 0 0 0 30%;
+    background: var(--pine);
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    padding: 2rem clamp(1.5rem, 6vw, 3rem);
+    transform: translateX(105%);
+    transition: transform 0.4s var(--ease);
+  }
+  .main-nav.is-open { transform: translateX(0); }
+  .main-nav a { color: var(--ivory); font-size: var(--step-1); }
+  .main-nav a[aria-current="page"] { color: var(--marigold-light); }
+  .nav-toggle { display: flex; }
+  .nav-cta .btn--pine-outline { display: none; }
+}
+
+/* ============================================
+   Site footer
+   ============================================ */
+
+.site-footer {
+  background: var(--pine-dark);
+  color: rgba(247,243,234,0.82);
+  padding-block: clamp(3rem, 6vw, 5rem) 2rem;
+}
+.footer-grid {
+  display: grid;
+  grid-template-columns: 1.4fr 1fr 1fr 1fr;
+  gap: 2.5rem;
+}
+@media (max-width: 780px) {
+  .footer-grid { grid-template-columns: 1fr 1fr; }
+}
+.footer-brand .logo { color: var(--white); }
+.footer-brand p { margin-top: 1rem; max-width: 34ch; color: rgba(247,243,234,0.65); font-size: var(--step--1); }
+.footer-col h5 {
+  font-family: var(--font-mono);
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  font-size: 0.75rem;
+  color: var(--marigold-light);
+  margin-bottom: 1rem;
+}
+.footer-col ul { display: flex; flex-direction: column; gap: 0.6rem; }
+.footer-col a { font-size: var(--step--1); color: rgba(247,243,234,0.82); transition: color 0.2s; }
+.footer-col a:hover { color: var(--white); }
+.footer-bottom {
+  margin-top: 3rem;
+  padding-top: 1.5rem;
+  border-top: 1px solid rgba(247,243,234,0.14);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 1rem;
+  font-size: var(--step--1);
+  color: rgba(247,243,234,0.55);
+}
+.footer-social { display: flex; gap: 1rem; }
+.footer-social a { color: rgba(247,243,234,0.7); }
+.footer-social a:hover { color: var(--marigold-light); }
+
+/* ============================================
+   Breadcrumb
+   ============================================ */
+.breadcrumb {
+  font-family: var(--font-mono);
+  font-size: var(--step--1);
+  color: var(--ink-soft);
+  padding-block: 1.25rem;
+  display: flex;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+}
+.breadcrumb a { color: var(--pine); }
+.breadcrumb a:hover { color: var(--vermilion); }
+.breadcrumb span[aria-hidden] { color: var(--sand-dark); }
