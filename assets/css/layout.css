@@ -150,3 +150,219 @@
 .breadcrumb a { color: var(--pine); }
 .breadcrumb a:hover { color: var(--vermilion); }
 .breadcrumb span[aria-hidden] { color: var(--sand-dark); }
+
+
+/* ============================================
+   Catalogue filter bar additions
+   ============================================ */
+.filter-bar__divider {
+  width: 1px;
+  align-self: stretch;
+  background: var(--sand-dark);
+  margin-inline: 0.25rem;
+}
+.catalogue-count {
+  font-family: var(--font-mono);
+  font-size: var(--step--1);
+  color: var(--ink-soft);
+  padding-block: 1rem 0.5rem;
+}
+.craft-grid[hidden], .craft-card[hidden] { display: none !important; }
+
+/* ============================================
+   Product detail
+   ============================================ */
+.product-detail {
+  display: grid;
+  grid-template-columns: 1.1fr 0.9fr;
+  gap: clamp(2rem, 5vw, 4rem);
+  align-items: start;
+}
+@media (max-width: 860px) { .product-detail { grid-template-columns: 1fr; } }
+.product-detail__gallery {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 0.75rem;
+}
+.product-detail__gallery img {
+  border-radius: var(--radius-md);
+  box-shadow: var(--shadow-card);
+  aspect-ratio: 1;
+  object-fit: cover;
+  width: 100%;
+}
+.product-detail__gallery img.is-main {
+  grid-column: span 3;
+  aspect-ratio: 4/3.2;
+}
+.product-detail__price {
+  font-family: var(--font-display);
+  font-size: var(--step-3);
+  color: var(--vermilion);
+  margin-top: 0.5rem;
+}
+.product-detail__facts {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1rem;
+  padding-top: 1.5rem;
+  border-top: 1px solid var(--sand);
+}
+.product-detail__facts p { font-size: var(--step--1); color: var(--ink-soft); margin-top: 0.3rem; }
+.product-detail__actions { display: flex; gap: 1rem; flex-wrap: wrap; }
+.impact-note {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  background: var(--ivory-warm);
+  border-radius: var(--radius-md);
+  padding: 1.1rem 1.25rem;
+}
+.impact-note__pct {
+  font-family: var(--font-display);
+  font-size: var(--step-2);
+  color: var(--pine);
+  flex-shrink: 0;
+}
+.impact-note p { font-size: var(--step--1); color: var(--ink-soft); }
+
+/* ============================================
+   Collective directory
+   ============================================ */
+.collective-grid { grid-template-columns: repeat(4, 1fr); }
+@media (max-width: 1080px) { .collective-grid { grid-template-columns: repeat(3, 1fr); } }
+@media (max-width: 760px) { .collective-grid { grid-template-columns: repeat(2, 1fr); } }
+@media (max-width: 480px) { .collective-grid { grid-template-columns: 1fr; } }
+.collective-card__img-wrap { aspect-ratio: 1; overflow: hidden; background: var(--sand); }
+.collective-card__img-wrap img { width: 100%; height: 100%; object-fit: cover; transition: transform 0.5s var(--ease); }
+.collective-card:hover .collective-card__img-wrap img { transform: scale(1.06); }
+.collective-card__body { padding: 1.1rem 1.15rem 1.3rem; }
+.collective-card__body h4 { margin-top: 0.5rem; font-size: 1.02rem; }
+.collective-card__craft { font-size: var(--step--1); color: var(--ink-soft); margin-top: 0.3rem; }
+.collective-card__flagship { font-size: var(--step--1); color: var(--pine); margin-top: 0.5rem; font-weight: 600; }
+
+/* ============================================
+   Journal
+   ============================================ */
+.journal-grid { grid-template-columns: repeat(3, 1fr); }
+@media (max-width: 900px) { .journal-grid { grid-template-columns: repeat(2, 1fr); } }
+@media (max-width: 600px) { .journal-grid { grid-template-columns: 1fr; } }
+.journal-card { display: block; }
+.journal-card__img-wrap { aspect-ratio: 16/10; overflow: hidden; background: var(--sand); }
+.journal-card__img-wrap img { width: 100%; height: 100%; object-fit: cover; transition: transform 0.5s var(--ease); }
+.journal-card:hover .journal-card__img-wrap img { transform: scale(1.06); }
+.journal-card__body { padding: 1.25rem 1.3rem 1.5rem; }
+.journal-card__body p { font-size: var(--step--1); color: var(--ink-soft); }
+.journal-card__date { display: block; font-family: var(--font-mono); font-size: 0.75rem; color: var(--sand-dark); }
+
+/* ============================================
+   Forms
+   ============================================ */
+.form-card {
+  background: var(--white);
+  border-radius: var(--radius-md);
+  box-shadow: var(--shadow-card);
+  padding: clamp(1.75rem, 4vw, 2.75rem);
+}
+.form-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 1.25rem; }
+@media (max-width: 600px) { .form-grid { grid-template-columns: 1fr; } }
+.form-field { display: flex; flex-direction: column; gap: 0.5rem; font-size: var(--step--1); font-weight: 600; color: var(--pine-dark); }
+.form-field input, .form-field select, .form-field textarea {
+  border: 1.5px solid var(--sand-dark);
+  border-radius: var(--radius-sm);
+  padding: 0.7em 0.9em;
+  font-weight: 400;
+  color: var(--ink);
+  background: var(--white);
+  transition: border-color 0.2s;
+}
+.form-field input:focus, .form-field select:focus, .form-field textarea:focus {
+  outline: none;
+  border-color: var(--vermilion);
+}
+.form-field textarea { resize: vertical; }
+.partner-form-wrap { max-width: 760px; }
+.contact-grid { display: grid; grid-template-columns: 1.3fr 1fr; gap: clamp(2rem, 5vw, 3.5rem); align-items: start; }
+@media (max-width: 860px) { .contact-grid { grid-template-columns: 1fr; } }
+.contact-info__block { margin-bottom: 2rem; }
+.contact-info__block p { margin-top: 0.4rem; color: var(--ink-soft); font-size: var(--step--1); line-height: 1.6; }
+.contact-info__block a { color: var(--vermilion); font-weight: 600; }
+
+/* ============================================
+   FAQ accordion
+   ============================================ */
+.faq-list { max-width: 760px; }
+.faq-item {
+  border-bottom: 1px solid var(--sand);
+  padding-block: 1.25rem;
+}
+.faq-item summary {
+  cursor: pointer;
+  font-family: var(--font-body);
+  font-weight: 700;
+  font-size: var(--step-0);
+  color: var(--pine-dark);
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.faq-item summary::-webkit-details-marker { display: none; }
+.faq-item summary::after {
+  content: "+";
+  font-family: var(--font-display);
+  font-size: 1.4rem;
+  color: var(--vermilion);
+  margin-left: 1rem;
+  transition: transform 0.2s var(--ease);
+}
+.faq-item[open] summary::after { transform: rotate(45deg); }
+.faq-item p { margin-top: 0.85rem; color: var(--ink-soft); max-width: 66ch; }
+
+/* ============================================
+   Data table (impact page)
+   ============================================ */
+.data-table { width: 100%; border-collapse: collapse; font-size: var(--step--1); }
+.data-table th, .data-table td {
+  text-align: left;
+  padding: 0.7rem 1rem;
+  border-bottom: 1px solid var(--sand);
+}
+.data-table th {
+  font-family: var(--font-mono);
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  font-size: 0.72rem;
+  color: var(--ink-soft);
+  background: var(--ivory-warm);
+}
+.data-table td:last-child, .data-table th:last-child { font-family: var(--font-mono); }
+
+/* ============================================
+   About hero variant
+   ============================================ */
+.hero--about .hero__inner { grid-template-columns: 1fr; max-width: 780px; }
+.hero--about .hero__shelf { margin-top: 2rem; grid-template-columns: repeat(3, 1fr); }
+.hero--about .hero__shelf img { aspect-ratio: 1; }
+.hero--about .hero__shelf .tile-a { grid-row: auto; }
+
+/* ============================================
+   Toast (add to basket confirmation)
+   ============================================ */
+.toast {
+  position: fixed;
+  bottom: 24px;
+  right: 24px;
+  background: var(--pine-dark);
+  color: var(--white);
+  padding: 0.9rem 1.3rem;
+  border-radius: var(--radius-sm);
+  font-size: var(--step--1);
+  font-weight: 600;
+  box-shadow: var(--shadow-hover);
+  transform: translateY(120%);
+  opacity: 0;
+  transition: transform 0.32s cubic-bezier(.2,.6,.2,1), opacity 0.32s cubic-bezier(.2,.6,.2,1);
+  z-index: 200;
+}
+.toast.is-visible { transform: translateY(0); opacity: 1; }
