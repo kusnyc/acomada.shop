@@ -6,9 +6,9 @@ window.ACOMADA_PRODUCTS = [
 "region": "Asia",
 "country": "India",
 "stamp": "IN \u00b7 WB",
-"price": 61,
+"price": 64,
 "group": "Riverside Kantha Collective",
-"image": "https://images.unsplash.com/photo-1600166898405-da9535204843?w=500&q=80"
+"image": "https://images.unsplash.com/photo-1592914486106-fa452cfc092c?w=500&q=80"
 },
 {
 "slug": "india-hand-block-table-runner",
@@ -17,9 +17,9 @@ window.ACOMADA_PRODUCTS = [
 "region": "Asia",
 "country": "India",
 "stamp": "IN \u00b7 RJ",
-"price": 73,
-"group": "Meadow Block Cooperative",
-"image": "https://images.unsplash.com/photo-1610701596007-11502861dcfa?w=500&q=80"
+"price": 70,
+"group": "Morning Star Block Cooperative",
+"image": "https://images.unsplash.com/photo-1707978932202-751b08324daf?w=500&q=80"
 },
 {
 "slug": "india-glazed-dinner-plate-set",
@@ -28,9 +28,9 @@ window.ACOMADA_PRODUCTS = [
 "region": "Asia",
 "country": "India",
 "stamp": "IN \u00b7 GJ",
-"price": 64,
-"group": "Homeland Blue Self-Help Group",
-"image": "https://images.unsplash.com/photo-1578500494198-246f612d3b3d?w=500&q=80"
+"price": 46,
+"group": "Little Hands Blue Self-Help Group",
+"image": "https://images.unsplash.com/photo-1595351298020-038700609878?w=500&q=80"
 },
 {
 "slug": "india-inlaid-wall-panel",
@@ -39,9 +39,9 @@ window.ACOMADA_PRODUCTS = [
 "region": "Asia",
 "country": "India",
 "stamp": "IN \u00b7 UP",
-"price": 63,
-"group": "Heritage Brass Producer Group",
-"image": "https://images.unsplash.com/photo-1615486364651-c8117a643e3d?w=500&q=80"
+"price": 57,
+"group": "Coastal Brass Producer Group",
+"image": "https://images.unsplash.com/photo-1606077089563-cff5a4f3d3d9?w=500&q=80"
 },
 {
 "slug": "india-tie-dyed-bedspread",
@@ -50,9 +50,9 @@ window.ACOMADA_PRODUCTS = [
 "region": "Asia",
 "country": "India",
 "stamp": "IN \u00b7 TN",
-"price": 61,
-"group": "Riverside Bandhani Weavers' Circle",
-"image": "https://images.unsplash.com/photo-1594736797933-d0501ba2fe65?w=500&q=80"
+"price": 70,
+"group": "Sisterhood Bandhani Weavers' Circle",
+"image": "https://images.unsplash.com/photo-1444362408440-274ecb6fc730?w=500&q=80"
 },
 {
 "slug": "india-hand-thrown-planter",
@@ -61,9 +61,9 @@ window.ACOMADA_PRODUCTS = [
 "region": "Asia",
 "country": "India",
 "stamp": "IN \u00b7 WB",
-"price": 67,
-"group": "Sunrise Terracotta Artisans' Trust",
-"image": "https://images.unsplash.com/photo-1610030181087-3f948d0a4d67?w=500&q=80"
+"price": 46,
+"group": "Little Hands Terracotta Artisans' Trust",
+"image": "https://images.unsplash.com/photo-1590605095243-072811dbe64c?w=500&q=80"
 },
 {
 "slug": "india-woven-bread-basket",
@@ -72,9 +72,9 @@ window.ACOMADA_PRODUCTS = [
 "region": "Asia",
 "country": "India",
 "stamp": "IN \u00b7 RJ",
-"price": 59,
-"group": "Meadow Banana Collective",
-"image": "https://images.unsplash.com/photo-1590422749897-47036da0b0ab?w=500&q=80"
+"price": 44,
+"group": "New Dawn Banana Collective",
+"image": "https://images.unsplash.com/photo-1674591409662-55f4f2c55fff?w=500&q=80"
 },
 {
 "slug": "india-hand-painted-shawl",
@@ -83,9 +83,9 @@ window.ACOMADA_PRODUCTS = [
 "region": "Asia",
 "country": "India",
 "stamp": "IN \u00b7 GJ",
-"price": 61,
-"group": "Homeland Madhubani Cooperative",
-"image": "https://images.unsplash.com/photo-1611930022073-b7a4ba5fcccd?w=500&q=80"
+"price": 67,
+"group": "Village Madhubani Cooperative",
+"image": "https://images.unsplash.com/photo-1714245145426-c8565109aa34?w=500&q=80"
 },
 {
 "slug": "india-running-stitch-tote-bag",
@@ -94,9 +94,9 @@ window.ACOMADA_PRODUCTS = [
 "region": "Asia",
 "country": "India",
 "stamp": "IN \u00b7 UP",
-"price": 67,
-"group": "Morning Star Kantha Self-Help Group",
-"image": "https://images.unsplash.com/photo-1524492412937-b28074a5d7da?w=500&q=80"
+"price": 70,
+"group": "Homeland Kantha Self-Help Group",
+"image": "https://images.unsplash.com/photo-1739173502526-de6efeb0b30c?w=500&q=80"
 },
 {
 "slug": "india-hand-block-throw",
@@ -105,9 +105,9 @@ window.ACOMADA_PRODUCTS = [
 "region": "Asia",
 "country": "India",
 "stamp": "IN \u00b7 TN",
-"price": 73,
-"group": "Mother Earth Block Producer Group",
-"image": "https://images.unsplash.com/photo-1544441893-675973e31985?w=500&q=80"
+"price": 70,
+"group": "Village Block Producer Group",
+"image": "https://images.unsplash.com/photo-1643766882273-335aae5a9309?w=500&q=80"
 },
 {
 "slug": "india-glazed-dinner-plate-set-2",
@@ -117,8 +117,8 @@ window.ACOMADA_PRODUCTS = [
 "country": "India",
 "stamp": "IN \u00b7 WB",
 "price": 52,
-"group": "Village Blue Weavers' Circle",
-"image": "https://images.unsplash.com/photo-1565193566173-7a0af771d71a?w=500&q=80"
+"group": "Meadow Blue Weavers' Circle",
+"image": "https://images.unsplash.com/photo-1609881583302-61548332039c?w=500&q=80"
 },
 {
 "slug": "india-inlaid-coaster-set",
@@ -127,9 +127,9 @@ window.ACOMADA_PRODUCTS = [
 "region": "Asia",
 "country": "India",
 "stamp": "IN \u00b7 RJ",
-"price": 78,
-"group": "Bright Path Brass Artisans' Trust",
-"image": "https://images.unsplash.com/photo-1609205807107-e8ec2120f9de?w=500&q=80"
+"price": 54,
+"group": "Sisterhood Brass Artisans' Trust",
+"image": "https://images.unsplash.com/photo-1700831213936-44bb92582be4?w=500&q=80"
 },
 {
 "slug": "bangladesh-embroidered-throw",
@@ -138,9 +138,9 @@ window.ACOMADA_PRODUCTS = [
 "region": "Asia",
 "country": "Bangladesh",
 "stamp": "BD \u00b7 WB",
-"price": 76,
-"group": "Golden Thread Nakshi Collective",
-"image": "https://images.unsplash.com/photo-1600166898405-da9535204843?w=500&q=80"
+"price": 61,
+"group": "Mother Earth Nakshi Collective",
+"image": "https://images.unsplash.com/photo-1638310533874-6c124c012e1d?w=500&q=80"
 },
 {
 "slug": "bangladesh-woven-jute-market-basket",
@@ -149,9 +149,9 @@ window.ACOMADA_PRODUCTS = [
 "region": "Asia",
 "country": "Bangladesh",
 "stamp": "BD \u00b7 DHK",
-"price": 41,
-"group": "Sunrise Jute Cooperative",
-"image": "https://images.unsplash.com/photo-1595231712325-9fedd6624a3e?w=500&q=80"
+"price": 56,
+"group": "Sacred Grove Jute Cooperative",
+"image": "https://images.unsplash.com/photo-1578678809626-a3741782f0b8?w=500&q=80"
 },
 {
 "slug": "bangladesh-hand-loomed-cushion-cover",
@@ -160,9 +160,9 @@ window.ACOMADA_PRODUCTS = [
 "region": "Asia",
 "country": "Bangladesh",
 "stamp": "BD \u00b7 RAJ",
-"price": 58,
-"group": "Coastal Muslin Self-Help Group",
-"image": "https://images.unsplash.com/photo-1610701596007-11502861dcfa?w=500&q=80"
+"price": 82,
+"group": "Heritage Muslin Self-Help Group",
+"image": "https://images.unsplash.com/photo-1773846012458-e6a66c26e49f?w=500&q=80"
 },
 {
 "slug": "bangladesh-caned-placemat-set",
@@ -171,9 +171,9 @@ window.ACOMADA_PRODUCTS = [
 "region": "Asia",
 "country": "Bangladesh",
 "stamp": "BD \u00b7 WB",
-"price": 53,
-"group": "Meadow Cane Producer Group",
-"image": "https://images.unsplash.com/photo-1622560481956-b3d47c58d0e2?w=500&q=80"
+"price": 47,
+"group": "Heritage Cane Producer Group",
+"image": "https://images.unsplash.com/photo-1455669175216-9017c9b02fc6?w=500&q=80"
 },
 {
 "slug": "bangladesh-embroidered-bedspread",
@@ -182,9 +182,9 @@ window.ACOMADA_PRODUCTS = [
 "region": "Asia",
 "country": "Bangladesh",
 "stamp": "BD \u00b7 DHK",
-"price": 64,
-"group": "Mother Earth Nakshi Weavers' Circle",
-"image": "https://images.unsplash.com/photo-1594736797933-d0501ba2fe65?w=500&q=80"
+"price": 76,
+"group": "Handmade Nakshi Weavers' Circle",
+"image": "https://images.unsplash.com/photo-1783763625102-866d02c4dfb4?w=500&q=80"
 },
 {
 "slug": "bangladesh-woven-jute-wall-basket",
@@ -193,9 +193,9 @@ window.ACOMADA_PRODUCTS = [
 "region": "Asia",
 "country": "Bangladesh",
 "stamp": "BD \u00b7 RAJ",
-"price": 62,
-"group": "Golden Thread Jute Artisans' Trust",
-"image": "https://images.unsplash.com/photo-1617093727343-374698b1b08d?w=500&q=80"
+"price": 53,
+"group": "Handmade Jute Artisans' Trust",
+"image": "https://images.unsplash.com/photo-1626037235530-fe56de7d6459?w=500&q=80"
 },
 {
 "slug": "nepal-hand-loomed-throw",
@@ -204,9 +204,9 @@ window.ACOMADA_PRODUCTS = [
 "region": "Asia",
 "country": "Nepal",
 "stamp": "NP \u00b7 KTM",
-"price": 64,
-"group": "Mother Earth Dhaka Collective",
-"image": "https://images.unsplash.com/photo-1611930022073-b7a4ba5fcccd?w=500&q=80"
+"price": 82,
+"group": "Meadow Dhaka Collective",
+"image": "https://images.unsplash.com/photo-1785064038559-10e0ad8036de?w=500&q=80"
 },
 {
 "slug": "nepal-felted-table-runner",
@@ -215,9 +215,9 @@ window.ACOMADA_PRODUCTS = [
 "region": "Asia",
 "country": "Nepal",
 "stamp": "NP \u00b7 POK",
-"price": 64,
-"group": "Mother Earth Felted Cooperative",
-"image": "https://images.unsplash.com/photo-1524492412937-b28074a5d7da?w=500&q=80"
+"price": 79,
+"group": "Riverside Felted Cooperative",
+"image": "https://images.unsplash.com/photo-1780984719694-f35cc92ee64b?w=500&q=80"
 },
 {
 "slug": "nepal-handmade-paper-laundry-hamper",
@@ -226,9 +226,9 @@ window.ACOMADA_PRODUCTS = [
 "region": "Asia",
 "country": "Nepal",
 "stamp": "NP \u00b7 BHK",
-"price": 50,
-"group": "Handmade Lokta Self-Help Group",
-"image": "https://images.unsplash.com/photo-1519025631705-d1c8c9c1a1ce?w=500&q=80"
+"price": 44,
+"group": "Little Hands Lokta Self-Help Group",
+"image": "https://images.unsplash.com/photo-1601916862476-8bbfd397ba8a?w=500&q=80"
 },
 {
 "slug": "nepal-hammered-charm-bracelet",
@@ -237,9 +237,9 @@ window.ACOMADA_PRODUCTS = [
 "region": "Asia",
 "country": "Nepal",
 "stamp": "NP \u00b7 KTM",
-"price": 32,
-"group": "Golden Thread Hand-hammered Producer Group",
-"image": "https://images.unsplash.com/photo-1611652022419-a9419f74343d?w=500&q=80"
+"price": 44,
+"group": "Mother Earth Hand-hammered Producer Group",
+"image": "https://images.unsplash.com/photo-1646070107254-3713cec279c1?w=500&q=80"
 },
 {
 "slug": "nepal-hand-loomed-bedspread",
@@ -248,9 +248,9 @@ window.ACOMADA_PRODUCTS = [
 "region": "Asia",
 "country": "Nepal",
 "stamp": "NP \u00b7 POK",
-"price": 79,
-"group": "Golden Thread Dhaka Weavers' Circle",
-"image": "https://images.unsplash.com/photo-1544441893-675973e31985?w=500&q=80"
+"price": 73,
+"group": "Village Dhaka Weavers' Circle",
+"image": "https://images.unsplash.com/photo-1774679817333-decf0d988dd5?w=500&q=80"
 },
 {
 "slug": "vietnam-woven-storage-basket",
@@ -259,9 +259,9 @@ window.ACOMADA_PRODUCTS = [
 "region": "Asia",
 "country": "Vietnam",
 "stamp": "VN \u00b7 HAN",
-"price": 53,
-"group": "Freeborn Water Collective",
-"image": "https://images.unsplash.com/photo-1590422749897-47036da0b0ab?w=500&q=80"
+"price": 44,
+"group": "Harvest Water Collective",
+"image": "https://images.unsplash.com/photo-1758784881676-68e4b9e26da2?w=500&q=80"
 },
 {
 "slug": "vietnam-lacquered-serving-board",
@@ -270,9 +270,9 @@ window.ACOMADA_PRODUCTS = [
 "region": "Asia",
 "country": "Vietnam",
 "stamp": "VN \u00b7 HUE",
-"price": 54,
-"group": "Sisterhood Lacquerware Cooperative",
-"image": "https://images.unsplash.com/photo-1594035910387-fea47794261f?w=500&q=80"
+"price": 63,
+"group": "Elder Tree Lacquerware Cooperative",
+"image": "https://images.unsplash.com/photo-1641893979088-87d4d9604c36?w=500&q=80"
 },
 {
 "slug": "vietnam-hand-loomed-silk-cushion-cover",
@@ -281,9 +281,9 @@ window.ACOMADA_PRODUCTS = [
 "region": "Asia",
 "country": "Vietnam",
 "stamp": "VN \u00b7 HOI",
-"price": 70,
-"group": "Handmade Silk Self-Help Group",
-"image": "https://images.unsplash.com/photo-1600166898405-da9535204843?w=500&q=80"
+"price": 79,
+"group": "Meadow Silk Self-Help Group",
+"image": "https://images.unsplash.com/photo-1784295039401-2225df40ee7c?w=500&q=80"
 },
 {
 "slug": "vietnam-bamboo-placemat-set",
@@ -292,9 +292,9 @@ window.ACOMADA_PRODUCTS = [
 "region": "Asia",
 "country": "Vietnam",
 "stamp": "VN \u00b7 HAN",
-"price": 38,
-"group": "Freeborn Bamboo Producer Group",
-"image": "https://images.unsplash.com/photo-1595231712325-9fedd6624a3e?w=500&q=80"
+"price": 53,
+"group": "Homeland Bamboo Producer Group",
+"image": "https://images.unsplash.com/photo-1782216312755-42f2b13590c8?w=500&q=80"
 },
 {
 "slug": "vietnam-woven-fruit-bowl",
@@ -303,9 +303,9 @@ window.ACOMADA_PRODUCTS = [
 "region": "Asia",
 "country": "Vietnam",
 "stamp": "VN \u00b7 HUE",
-"price": 44,
-"group": "Heritage Water Weavers' Circle",
-"image": "https://images.unsplash.com/photo-1622560481956-b3d47c58d0e2?w=500&q=80"
+"price": 62,
+"group": "Village Water Weavers' Circle",
+"image": "https://images.unsplash.com/photo-1760067538169-8fdc2d711b84?w=500&q=80"
 },
 {
 "slug": "sri-lanka-batik-throw",
@@ -314,9 +314,9 @@ window.ACOMADA_PRODUCTS = [
 "region": "Asia",
 "country": "Sri Lanka",
 "stamp": "LK \u00b7 KDY",
-"price": 64,
-"group": "New Dawn Batik Collective",
-"image": "https://images.unsplash.com/photo-1610701596007-11502861dcfa?w=500&q=80"
+"price": 79,
+"group": "Handmade Batik Collective",
+"image": "https://images.unsplash.com/photo-1783670396779-f216a1497eeb?w=500&q=80"
 },
 {
 "slug": "sri-lanka-caned-market-basket",
@@ -325,9 +325,9 @@ window.ACOMADA_PRODUCTS = [
 "region": "Asia",
 "country": "Sri Lanka",
 "stamp": "LK \u00b7 GAL",
-"price": 62,
-"group": "Village Cane Cooperative",
-"image": "https://images.unsplash.com/photo-1617093727343-374698b1b08d?w=500&q=80"
+"price": 50,
+"group": "Handmade Cane Cooperative",
+"image": "https://images.unsplash.com/photo-1781232756159-97eba33dc051?w=500&q=80"
 },
 {
 "slug": "sri-lanka-coir-woven-laundry-hamper",
@@ -336,9 +336,9 @@ window.ACOMADA_PRODUCTS = [
 "region": "Asia",
 "country": "Sri Lanka",
 "stamp": "LK \u00b7 KDY",
-"price": 38,
-"group": "Freeborn Coir Self-Help Group",
-"image": "https://images.unsplash.com/photo-1519025631705-d1c8c9c1a1ce?w=500&q=80"
+"price": 56,
+"group": "Golden Thread Coir Self-Help Group",
+"image": "https://images.unsplash.com/photo-1586802005224-03286636cbca?w=500&q=80"
 },
 {
 "slug": "sri-lanka-batik-wrap-scarf",
@@ -347,9 +347,9 @@ window.ACOMADA_PRODUCTS = [
 "region": "Asia",
 "country": "Sri Lanka",
 "stamp": "LK \u00b7 GAL",
-"price": 70,
-"group": "Harvest Batik Producer Group",
-"image": "https://images.unsplash.com/photo-1594736797933-d0501ba2fe65?w=500&q=80"
+"price": 61,
+"group": "Homeland Batik Producer Group",
+"image": "https://images.unsplash.com/photo-1592914486106-fa452cfc092c?w=500&q=80"
 },
 {
 "slug": "pakistan-block-printed-throw",
@@ -358,9 +358,9 @@ window.ACOMADA_PRODUCTS = [
 "region": "Asia",
 "country": "Pakistan",
 "stamp": "PK \u00b7 MUL",
-"price": 61,
-"group": "Elder Tree Ajrak Collective",
-"image": "https://images.unsplash.com/photo-1611930022073-b7a4ba5fcccd?w=500&q=80"
+"price": 76,
+"group": "Bright Path Ajrak Collective",
+"image": "https://images.unsplash.com/photo-1707978932202-751b08324daf?w=500&q=80"
 },
 {
 "slug": "pakistan-mirror-worked-table-runner",
@@ -369,9 +369,9 @@ window.ACOMADA_PRODUCTS = [
 "region": "Asia",
 "country": "Pakistan",
 "stamp": "PK \u00b7 SND",
-"price": 70,
-"group": "Bright Path Mirror Cooperative",
-"image": "https://images.unsplash.com/photo-1524492412937-b28074a5d7da?w=500&q=80"
+"price": 82,
+"group": "Homeland Mirror Cooperative",
+"image": "https://images.unsplash.com/photo-1444362408440-274ecb6fc730?w=500&q=80"
 },
 {
 "slug": "pakistan-hand-thrown-dinner-plate-set",
@@ -380,9 +380,9 @@ window.ACOMADA_PRODUCTS = [
 "region": "Asia",
 "country": "Pakistan",
 "stamp": "PK \u00b7 MUL",
-"price": 67,
-"group": "Sacred Grove Clay Self-Help Group",
-"image": "https://images.unsplash.com/photo-1602343168117-bb8ffe3e2e9f?w=500&q=80"
+"price": 64,
+"group": "Handmade Clay Self-Help Group",
+"image": "https://images.unsplash.com/photo-1607556671927-78a6605e290b?w=500&q=80"
 },
 {
 "slug": "pakistan-block-printed-wrap-scarf",
@@ -391,9 +391,9 @@ window.ACOMADA_PRODUCTS = [
 "region": "Asia",
 "country": "Pakistan",
 "stamp": "PK \u00b7 SND",
-"price": 58,
-"group": "Mother Earth Ajrak Producer Group",
-"image": "https://images.unsplash.com/photo-1544441893-675973e31985?w=500&q=80"
+"price": 67,
+"group": "New Dawn Ajrak Producer Group",
+"image": "https://images.unsplash.com/photo-1714245145426-c8565109aa34?w=500&q=80"
 },
 {
 "slug": "cambodia-hand-loomed-silk-throw",
@@ -402,9 +402,9 @@ window.ACOMADA_PRODUCTS = [
 "region": "Asia",
 "country": "Cambodia",
 "stamp": "KH \u00b7 SR",
-"price": 73,
-"group": "Mother Earth Silk Collective",
-"image": "https://images.unsplash.com/photo-1600166898405-da9535204843?w=500&q=80"
+"price": 58,
+"group": "New Dawn Silk Collective",
+"image": "https://images.unsplash.com/photo-1739173502526-de6efeb0b30c?w=500&q=80"
 },
 {
 "slug": "cambodia-rattan-woven-market-basket",
@@ -413,9 +413,9 @@ window.ACOMADA_PRODUCTS = [
 "region": "Asia",
 "country": "Cambodia",
 "stamp": "KH \u00b7 PP",
-"price": 44,
-"group": "Sacred Grove Rattan Cooperative",
-"image": "https://images.unsplash.com/photo-1590422749897-47036da0b0ab?w=500&q=80"
+"price": 47,
+"group": "New Dawn Rattan Cooperative",
+"image": "https://images.unsplash.com/photo-1640739355178-d7e0817a0a44?w=500&q=80"
 },
 {
 "slug": "cambodia-carved-jewellery-box",
@@ -424,9 +424,9 @@ window.ACOMADA_PRODUCTS = [
 "region": "Asia",
 "country": "Cambodia",
 "stamp": "KH \u00b7 SR",
-"price": 72,
-"group": "Coastal Stone-inspired Self-Help Group",
-"image": "https://images.unsplash.com/photo-1567016376408-0226e4d0c1ea?w=500&q=80"
+"price": 63,
+"group": "Little Hands Stone-inspired Self-Help Group",
+"image": "https://images.unsplash.com/photo-1497219055242-93359eeed651?w=500&q=80"
 },
 {
 "slug": "cambodia-hand-loomed-silk-wrap-scarf",
@@ -435,9 +435,9 @@ window.ACOMADA_PRODUCTS = [
 "region": "Asia",
 "country": "Cambodia",
 "stamp": "KH \u00b7 PP",
-"price": 76,
-"group": "Sunrise Silk Producer Group",
-"image": "https://images.unsplash.com/photo-1610701596007-11502861dcfa?w=500&q=80"
+"price": 70,
+"group": "Coastal Silk Producer Group",
+"image": "https://images.unsplash.com/photo-1643766882273-335aae5a9309?w=500&q=80"
 },
 {
 "slug": "indonesia-batik-throw",
@@ -446,9 +446,9 @@ window.ACOMADA_PRODUCTS = [
 "region": "Asia",
 "country": "Indonesia",
 "stamp": "ID \u00b7 JOG",
-"price": 67,
-"group": "Golden Thread Batik Collective",
-"image": "https://images.unsplash.com/photo-1594736797933-d0501ba2fe65?w=500&q=80"
+"price": 61,
+"group": "Homeland Batik Collective",
+"image": "https://images.unsplash.com/photo-1638310533874-6c124c012e1d?w=500&q=80"
 },
 {
 "slug": "indonesia-rattan-woven-market-basket",
@@ -457,9 +457,9 @@ window.ACOMADA_PRODUCTS = [
 "region": "Asia",
 "country": "Indonesia",
 "stamp": "ID \u00b7 BAL",
-"price": 56,
-"group": "Village Rattan Cooperative",
-"image": "https://images.unsplash.com/photo-1595231712325-9fedd6624a3e?w=500&q=80"
+"price": 44,
+"group": "Coastal Rattan Cooperative",
+"image": "https://images.unsplash.com/photo-1674591409662-55f4f2c55fff?w=500&q=80"
 },
 {
 "slug": "indonesia-filigree-necklace",
@@ -468,9 +468,9 @@ window.ACOMADA_PRODUCTS = [
 "region": "Asia",
 "country": "Indonesia",
 "stamp": "ID \u00b7 LOM",
-"price": 47,
-"group": "Heritage Silver Self-Help Group",
-"image": "https://images.unsplash.com/photo-1631982690223-8aa4c9f9ce4c?w=500&q=80"
+"price": 35,
+"group": "Meadow Silver Self-Help Group",
+"image": "https://images.unsplash.com/photo-1715374033196-0ff662284a7e?w=500&q=80"
 },
 {
 "slug": "indonesia-carved-wall-panel",
@@ -479,9 +479,9 @@ window.ACOMADA_PRODUCTS = [
 "region": "Asia",
 "country": "Indonesia",
 "stamp": "ID \u00b7 JOG",
-"price": 72,
-"group": "Harvest Wood Producer Group",
-"image": "https://images.unsplash.com/photo-1615486364651-c8117a643e3d?w=500&q=80"
+"price": 66,
+"group": "Village Wood Producer Group",
+"image": "https://images.unsplash.com/photo-1721508490084-1b1de5b230d4?w=500&q=80"
 },
 {
 "slug": "indonesia-batik-bedspread",
@@ -490,9 +490,9 @@ window.ACOMADA_PRODUCTS = [
 "region": "Asia",
 "country": "Indonesia",
 "stamp": "ID \u00b7 BAL",
-"price": 76,
-"group": "New Dawn Batik Weavers' Circle",
-"image": "https://images.unsplash.com/photo-1611930022073-b7a4ba5fcccd?w=500&q=80"
+"price": 82,
+"group": "Harvest Batik Weavers' Circle",
+"image": "https://images.unsplash.com/photo-1773846012458-e6a66c26e49f?w=500&q=80"
 },
 {
 "slug": "philippines-hand-woven-abaca-throw",
@@ -501,9 +501,9 @@ window.ACOMADA_PRODUCTS = [
 "region": "Asia",
 "country": "Philippines",
 "stamp": "PH \u00b7 CEB",
-"price": 67,
-"group": "Homeland Abaca Collective",
-"image": "https://images.unsplash.com/photo-1524492412937-b28074a5d7da?w=500&q=80"
+"price": 70,
+"group": "Sisterhood Abaca Collective",
+"image": "https://images.unsplash.com/photo-1783763625102-866d02c4dfb4?w=500&q=80"
 },
 {
 "slug": "philippines-shell-inlaid-drop-earrings",
@@ -512,9 +512,9 @@ window.ACOMADA_PRODUCTS = [
 "region": "Asia",
 "country": "Philippines",
 "stamp": "PH \u00b7 IFU",
-"price": 41,
-"group": "Elder Tree Capiz Cooperative",
-"image": "https://images.unsplash.com/photo-1620656798579-1984d9e87df7?w=500&q=80"
+"price": 44,
+"group": "Harvest Capiz Cooperative",
+"image": "https://images.unsplash.com/photo-1772124409617-460f4f8dad00?w=500&q=80"
 },
 {
 "slug": "philippines-backstrap-woven-cushion-cover",
@@ -524,8 +524,8 @@ window.ACOMADA_PRODUCTS = [
 "country": "Philippines",
 "stamp": "PH \u00b7 CEB",
 "price": 79,
-"group": "Sacred Grove Backstrap Self-Help Group",
-"image": "https://images.unsplash.com/photo-1544441893-675973e31985?w=500&q=80"
+"group": "Meadow Backstrap Self-Help Group",
+"image": "https://images.unsplash.com/photo-1785064038559-10e0ad8036de?w=500&q=80"
 },
 {
 "slug": "philippines-hand-woven-abaca-wrap-scarf",
@@ -534,9 +534,9 @@ window.ACOMADA_PRODUCTS = [
 "region": "Asia",
 "country": "Philippines",
 "stamp": "PH \u00b7 IFU",
-"price": 79,
-"group": "Highland Abaca Producer Group",
-"image": "https://images.unsplash.com/photo-1600166898405-da9535204843?w=500&q=80"
+"price": 70,
+"group": "Mother Earth Abaca Producer Group",
+"image": "https://images.unsplash.com/photo-1780984719694-f35cc92ee64b?w=500&q=80"
 },
 {
 "slug": "thailand-glazed-celadon-vase",
@@ -545,9 +545,9 @@ window.ACOMADA_PRODUCTS = [
 "region": "Asia",
 "country": "Thailand",
 "stamp": "TH \u00b7 CMI",
-"price": 58,
-"group": "Elder Tree Celadon Collective",
-"image": "https://images.unsplash.com/photo-1590422749897-47036da0b0ab?w=500&q=80"
+"price": 64,
+"group": "Golden Thread Celadon Collective",
+"image": "https://images.unsplash.com/photo-1607556672044-6110fc499247?w=500&q=80"
 },
 {
 "slug": "thailand-hand-loomed-silk-table-runner",
@@ -556,9 +556,9 @@ window.ACOMADA_PRODUCTS = [
 "region": "Asia",
 "country": "Thailand",
 "stamp": "TH \u00b7 ISN",
-"price": 67,
-"group": "Handmade Silk Cooperative",
-"image": "https://images.unsplash.com/photo-1610701596007-11502861dcfa?w=500&q=80"
+"price": 64,
+"group": "Elder Tree Silk Cooperative",
+"image": "https://images.unsplash.com/photo-1774679817333-decf0d988dd5?w=500&q=80"
 },
 {
 "slug": "thailand-hand-hammered-necklace",
@@ -567,9 +567,9 @@ window.ACOMADA_PRODUCTS = [
 "region": "Asia",
 "country": "Thailand",
 "stamp": "TH \u00b7 CMI",
-"price": 32,
-"group": "Bright Path Silver Self-Help Group",
-"image": "https://images.unsplash.com/photo-1599643477877-530eb83abc8e?w=500&q=80"
+"price": 47,
+"group": "Meadow Silver Self-Help Group",
+"image": "https://images.unsplash.com/photo-1523252012848-c22188792c27?w=500&q=80"
 },
 {
 "slug": "thailand-glazed-celadon-storage-jar",
@@ -578,9 +578,9 @@ window.ACOMADA_PRODUCTS = [
 "region": "Asia",
 "country": "Thailand",
 "stamp": "TH \u00b7 ISN",
-"price": 52,
-"group": "Bright Path Celadon Producer Group",
-"image": "https://images.unsplash.com/photo-1578500494198-246f612d3b3d?w=500&q=80"
+"price": 64,
+"group": "New Dawn Celadon Producer Group",
+"image": "https://images.unsplash.com/photo-1493106641515-6b5631de4bb9?w=500&q=80"
 },
 {
 "slug": "laos-hand-loomed-throw",
@@ -589,9 +589,9 @@ window.ACOMADA_PRODUCTS = [
 "region": "Asia",
 "country": "Laos",
 "stamp": "LA \u00b7 LPB",
-"price": 79,
-"group": "New Dawn Handwoven Collective",
-"image": "https://images.unsplash.com/photo-1594736797933-d0501ba2fe65?w=500&q=80"
+"price": 58,
+"group": "Highland Handwoven Collective",
+"image": "https://images.unsplash.com/photo-1784295039401-2225df40ee7c?w=500&q=80"
 },
 {
 "slug": "laos-bamboo-woven-market-basket",
@@ -600,9 +600,9 @@ window.ACOMADA_PRODUCTS = [
 "region": "Asia",
 "country": "Laos",
 "stamp": "LA \u00b7 VTE",
-"price": 38,
-"group": "Sisterhood Bamboo Cooperative",
-"image": "https://images.unsplash.com/photo-1622560481956-b3d47c58d0e2?w=500&q=80"
+"price": 44,
+"group": "Homeland Bamboo Cooperative",
+"image": "https://images.unsplash.com/photo-1578678809626-a3741782f0b8?w=500&q=80"
 },
 {
 "slug": "laos-hand-loomed-cushion-cover",
@@ -611,9 +611,9 @@ window.ACOMADA_PRODUCTS = [
 "region": "Asia",
 "country": "Laos",
 "stamp": "LA \u00b7 LPB",
-"price": 61,
-"group": "Riverside Handwoven Self-Help Group",
-"image": "https://images.unsplash.com/photo-1611930022073-b7a4ba5fcccd?w=500&q=80"
+"price": 64,
+"group": "Sacred Grove Handwoven Self-Help Group",
+"image": "https://images.unsplash.com/photo-1783670396779-f216a1497eeb?w=500&q=80"
 },
 {
 "slug": "kenya-beaded-cuff",
@@ -622,9 +622,9 @@ window.ACOMADA_PRODUCTS = [
 "region": "Africa",
 "country": "Kenya",
 "stamp": "KE \u00b7 NB",
-"price": 47,
-"group": "Sunrise Maasai Women's Group",
-"image": "https://images.unsplash.com/photo-1611591437281-460bfbe1220a?w=500&q=80"
+"price": 41,
+"group": "Golden Thread Maasai Women's Group",
+"image": "https://images.unsplash.com/photo-1613274146063-8930e164c743?w=500&q=80"
 },
 {
 "slug": "kenya-sisal-woven-market-basket",
@@ -633,9 +633,9 @@ window.ACOMADA_PRODUCTS = [
 "region": "Africa",
 "country": "Kenya",
 "stamp": "KE \u00b7 MSA",
-"price": 59,
-"group": "Harvest Sisal Cooperative",
-"image": "https://images.unsplash.com/photo-1617093727343-374698b1b08d?w=500&q=80"
+"price": 50,
+"group": "Highland Sisal Cooperative",
+"image": "https://images.unsplash.com/photo-1455669175216-9017c9b02fc6?w=500&q=80"
 },
 {
 "slug": "kenya-carved-jewellery-box",
@@ -644,9 +644,9 @@ window.ACOMADA_PRODUCTS = [
 "region": "Africa",
 "country": "Kenya",
 "stamp": "KE \u00b7 KIS",
-"price": 75,
-"group": "Bright Path Soapstone Collective",
-"image": "https://images.unsplash.com/photo-1609205807107-e8ec2120f9de?w=500&q=80"
+"price": 66,
+"group": "Sacred Grove Soapstone Collective",
+"image": "https://images.unsplash.com/photo-1660796334938-cf0b03be7e6d?w=500&q=80"
 },
 {
 "slug": "kenya-coiled-placemat-set",
@@ -655,9 +655,9 @@ window.ACOMADA_PRODUCTS = [
 "region": "Africa",
 "country": "Kenya",
 "stamp": "KE \u00b7 NB",
-"price": 62,
-"group": "Heritage Banana-leaf Producer Group",
-"image": "https://images.unsplash.com/photo-1519025631705-d1c8c9c1a1ce?w=500&q=80"
+"price": 47,
+"group": "New Dawn Banana-leaf Producer Group",
+"image": "https://images.unsplash.com/photo-1626037235530-fe56de7d6459?w=500&q=80"
 },
 {
 "slug": "kenya-beaded-statement-collar",
@@ -666,9 +666,9 @@ window.ACOMADA_PRODUCTS = [
 "region": "Africa",
 "country": "Kenya",
 "stamp": "KE \u00b7 MSA",
-"price": 53,
-"group": "Bright Path Maasai Artisans' Trust",
-"image": "https://images.unsplash.com/photo-1611652022419-a9419f74343d?w=500&q=80"
+"price": 50,
+"group": "Sisterhood Maasai Artisans' Trust",
+"image": "https://images.unsplash.com/photo-1631832725617-d28dbbb3a29a?w=500&q=80"
 },
 {
 "slug": "kenya-sisal-woven-wall-basket",
@@ -677,9 +677,9 @@ window.ACOMADA_PRODUCTS = [
 "region": "Africa",
 "country": "Kenya",
 "stamp": "KE \u00b7 KIS",
-"price": 50,
-"group": "Freeborn Sisal Women's Group",
-"image": "https://images.unsplash.com/photo-1590422749897-47036da0b0ab?w=500&q=80"
+"price": 41,
+"group": "Bright Path Sisal Women's Group",
+"image": "https://images.unsplash.com/photo-1601916862476-8bbfd397ba8a?w=500&q=80"
 },
 {
 "slug": "kenya-carved-letter-tray",
@@ -688,9 +688,9 @@ window.ACOMADA_PRODUCTS = [
 "region": "Africa",
 "country": "Kenya",
 "stamp": "KE \u00b7 NB",
-"price": 69,
-"group": "Sunrise Soapstone Cooperative",
-"image": "https://images.unsplash.com/photo-1594035910387-fea47794261f?w=500&q=80"
+"price": 66,
+"group": "Coastal Soapstone Cooperative",
+"image": "https://images.unsplash.com/photo-1643944407305-82c5270e6fb3?w=500&q=80"
 },
 {
 "slug": "kenya-coiled-storage-basket",
@@ -699,9 +699,9 @@ window.ACOMADA_PRODUCTS = [
 "region": "Africa",
 "country": "Kenya",
 "stamp": "KE \u00b7 MSA",
-"price": 41,
-"group": "Golden Thread Banana-leaf Collective",
-"image": "https://images.unsplash.com/photo-1595231712325-9fedd6624a3e?w=500&q=80"
+"price": 62,
+"group": "Sisterhood Banana-leaf Collective",
+"image": "https://images.unsplash.com/photo-1758784881676-68e4b9e26da2?w=500&q=80"
 },
 {
 "slug": "ghana-hand-loomed-kente-throw",
@@ -711,8 +711,8 @@ window.ACOMADA_PRODUCTS = [
 "country": "Ghana",
 "stamp": "GH \u00b7 ACC",
 "price": 61,
-"group": "Village Kente Women's Group",
-"image": "https://images.unsplash.com/photo-1524492412937-b28074a5d7da?w=500&q=80"
+"group": "Freeborn Kente Women's Group",
+"image": "https://images.unsplash.com/photo-1592914486106-fa452cfc092c?w=500&q=80"
 },
 {
 "slug": "ghana-coiled-market-basket",
@@ -721,9 +721,9 @@ window.ACOMADA_PRODUCTS = [
 "region": "Africa",
 "country": "Ghana",
 "stamp": "GH \u00b7 KUM",
-"price": 56,
-"group": "Sacred Grove Bolga Cooperative",
-"image": "https://images.unsplash.com/photo-1622560481956-b3d47c58d0e2?w=500&q=80"
+"price": 41,
+"group": "Sisterhood Bolga Cooperative",
+"image": "https://images.unsplash.com/photo-1782216312755-42f2b13590c8?w=500&q=80"
 },
 {
 "slug": "ghana-cast-necklace",
@@ -732,9 +732,9 @@ window.ACOMADA_PRODUCTS = [
 "region": "Africa",
 "country": "Ghana",
 "stamp": "GH \u00b7 BOL",
-"price": 44,
-"group": "Little Hands Brass Collective",
-"image": "https://images.unsplash.com/photo-1631982690223-8aa4c9f9ce4c?w=500&q=80"
+"price": 38,
+"group": "Riverside Brass Collective",
+"image": "https://images.unsplash.com/photo-1609428126821-b26911b6d662?w=500&q=80"
 },
 {
 "slug": "ghana-hand-loomed-kente-wrap-scarf",
@@ -743,9 +743,9 @@ window.ACOMADA_PRODUCTS = [
 "region": "Africa",
 "country": "Ghana",
 "stamp": "GH \u00b7 ACC",
-"price": 76,
-"group": "Golden Thread Kente Producer Group",
-"image": "https://images.unsplash.com/photo-1544441893-675973e31985?w=500&q=80"
+"price": 67,
+"group": "Meadow Kente Producer Group",
+"image": "https://images.unsplash.com/photo-1707978932202-751b08324daf?w=500&q=80"
 },
 {
 "slug": "ghana-coiled-fruit-bowl",
@@ -754,9 +754,9 @@ window.ACOMADA_PRODUCTS = [
 "region": "Africa",
 "country": "Ghana",
 "stamp": "GH \u00b7 KUM",
-"price": 59,
-"group": "Elder Tree Bolga Artisans' Trust",
-"image": "https://images.unsplash.com/photo-1617093727343-374698b1b08d?w=500&q=80"
+"price": 47,
+"group": "Highland Bolga Artisans' Trust",
+"image": "https://images.unsplash.com/photo-1760067538169-8fdc2d711b84?w=500&q=80"
 },
 {
 "slug": "ghana-cast-ring-set",
@@ -766,8 +766,8 @@ window.ACOMADA_PRODUCTS = [
 "country": "Ghana",
 "stamp": "GH \u00b7 BOL",
 "price": 56,
-"group": "Mother Earth Brass Women's Group",
-"image": "https://images.unsplash.com/photo-1620656798579-1984d9e87df7?w=500&q=80"
+"group": "Sunrise Brass Women's Group",
+"image": "https://images.unsplash.com/photo-1715374032857-6d0919a5f0f2?w=500&q=80"
 },
 {
 "slug": "ghana-hand-loomed-kente-wall-hanging",
@@ -776,9 +776,9 @@ window.ACOMADA_PRODUCTS = [
 "region": "Africa",
 "country": "Ghana",
 "stamp": "GH \u00b7 ACC",
-"price": 76,
-"group": "Golden Thread Kente Cooperative",
-"image": "https://images.unsplash.com/photo-1600166898405-da9535204843?w=500&q=80"
+"price": 79,
+"group": "Sacred Grove Kente Cooperative",
+"image": "https://images.unsplash.com/photo-1444362408440-274ecb6fc730?w=500&q=80"
 },
 {
 "slug": "morocco-woven-storage-basket",
@@ -787,9 +787,9 @@ window.ACOMADA_PRODUCTS = [
 "region": "Africa",
 "country": "Morocco",
 "stamp": "MA \u00b7 FEZ",
-"price": 38,
-"group": "Riverside Doum Women's Group",
-"image": "https://images.unsplash.com/photo-1519025631705-d1c8c9c1a1ce?w=500&q=80"
+"price": 62,
+"group": "Elder Tree Doum Women's Group",
+"image": "https://images.unsplash.com/photo-1781232756159-97eba33dc051?w=500&q=80"
 },
 {
 "slug": "morocco-hand-knotted-table-runner",
@@ -798,9 +798,9 @@ window.ACOMADA_PRODUCTS = [
 "region": "Africa",
 "country": "Morocco",
 "stamp": "MA \u00b7 MAR",
-"price": 79,
-"group": "Sisterhood Beni Cooperative",
-"image": "https://images.unsplash.com/photo-1610701596007-11502861dcfa?w=500&q=80"
+"price": 58,
+"group": "Little Hands Beni Cooperative",
+"image": "https://images.unsplash.com/photo-1714245145426-c8565109aa34?w=500&q=80"
 },
 {
 "slug": "morocco-hand-thrown-dinner-plate-set",
@@ -809,9 +809,9 @@ window.ACOMADA_PRODUCTS = [
 "region": "Africa",
 "country": "Morocco",
 "stamp": "MA \u00b7 ESS",
-"price": 52,
-"group": "Highland Hand-thrown Collective",
-"image": "https://images.unsplash.com/photo-1610030181087-3f948d0a4d67?w=500&q=80"
+"price": 61,
+"group": "Harvest Hand-thrown Collective",
+"image": "https://images.unsplash.com/photo-1508269151431-a34449ca161d?w=500&q=80"
 },
 {
 "slug": "morocco-tooled-wall-panel",
@@ -820,9 +820,9 @@ window.ACOMADA_PRODUCTS = [
 "region": "Africa",
 "country": "Morocco",
 "stamp": "MA \u00b7 FEZ",
-"price": 60,
-"group": "Heritage Leatherwork Producer Group",
-"image": "https://images.unsplash.com/photo-1567016376408-0226e4d0c1ea?w=500&q=80"
+"price": 75,
+"group": "Sacred Grove Leatherwork Producer Group",
+"image": "https://images.unsplash.com/photo-1609688538023-2090aa8e874e?w=500&q=80"
 },
 {
 "slug": "morocco-woven-fruit-bowl",
@@ -831,9 +831,9 @@ window.ACOMADA_PRODUCTS = [
 "region": "Africa",
 "country": "Morocco",
 "stamp": "MA \u00b7 MAR",
-"price": 59,
-"group": "Bright Path Doum Artisans' Trust",
-"image": "https://images.unsplash.com/photo-1590422749897-47036da0b0ab?w=500&q=80"
+"price": 41,
+"group": "Highland Doum Artisans' Trust",
+"image": "https://images.unsplash.com/photo-1586802005224-03286636cbca?w=500&q=80"
 },
 {
 "slug": "morocco-hand-knotted-napkin-set",
@@ -842,9 +842,9 @@ window.ACOMADA_PRODUCTS = [
 "region": "Africa",
 "country": "Morocco",
 "stamp": "MA \u00b7 ESS",
-"price": 61,
-"group": "Mother Earth Beni Women's Group",
-"image": "https://images.unsplash.com/photo-1594736797933-d0501ba2fe65?w=500&q=80"
+"price": 79,
+"group": "Sisterhood Beni Women's Group",
+"image": "https://images.unsplash.com/photo-1739173502526-de6efeb0b30c?w=500&q=80"
 },
 {
 "slug": "morocco-hand-thrown-water-jug",
@@ -853,9 +853,9 @@ window.ACOMADA_PRODUCTS = [
 "region": "Africa",
 "country": "Morocco",
 "stamp": "MA \u00b7 FEZ",
-"price": 70,
-"group": "Bright Path Hand-thrown Cooperative",
-"image": "https://images.unsplash.com/photo-1565193566173-7a0af771d71a?w=500&q=80"
+"price": 55,
+"group": "Sacred Grove Hand-thrown Cooperative",
+"image": "https://images.unsplash.com/photo-1621846323386-a60faf26f962?w=500&q=80"
 },
 {
 "slug": "morocco-tooled-bowl",
@@ -864,9 +864,9 @@ window.ACOMADA_PRODUCTS = [
 "region": "Africa",
 "country": "Morocco",
 "stamp": "MA \u00b7 MAR",
-"price": 72,
-"group": "Handmade Leatherwork Collective",
-"image": "https://images.unsplash.com/photo-1615486364651-c8117a643e3d?w=500&q=80"
+"price": 75,
+"group": "Riverside Leatherwork Collective",
+"image": "https://images.unsplash.com/photo-1645205441056-895632a8f5d9?w=500&q=80"
 },
 {
 "slug": "south-africa-beaded-cuff",
@@ -875,9 +875,9 @@ window.ACOMADA_PRODUCTS = [
 "region": "Africa",
 "country": "South Africa",
 "stamp": "ZA \u00b7 JHB",
-"price": 35,
-"group": "Little Hands Ndebele Women's Group",
-"image": "https://images.unsplash.com/photo-1599643477877-530eb83abc8e?w=500&q=80"
+"price": 50,
+"group": "Handmade Ndebele Women's Group",
+"image": "https://images.unsplash.com/photo-1659200735680-e56be841c909?w=500&q=80"
 },
 {
 "slug": "south-africa-wire-woven-market-basket",
@@ -886,9 +886,9 @@ window.ACOMADA_PRODUCTS = [
 "region": "Africa",
 "country": "South Africa",
 "stamp": "ZA \u00b7 DBN",
-"price": 53,
-"group": "Harvest Telephone-wire Cooperative",
-"image": "https://images.unsplash.com/photo-1595231712325-9fedd6624a3e?w=500&q=80"
+"price": 50,
+"group": "Homeland Telephone-wire Cooperative",
+"image": "https://images.unsplash.com/photo-1640739355178-d7e0817a0a44?w=500&q=80"
 },
 {
 "slug": "south-africa-hand-formed-necklace",
@@ -897,9 +897,9 @@ window.ACOMADA_PRODUCTS = [
 "region": "Africa",
 "country": "South Africa",
 "stamp": "ZA \u00b7 CPT",
-"price": 41,
-"group": "Freeborn Ceramic Collective",
-"image": "https://images.unsplash.com/photo-1611591437281-460bfbe1220a?w=500&q=80"
+"price": 44,
+"group": "Highland Ceramic Collective",
+"image": "https://images.unsplash.com/photo-1574362098421-38623a3466b5?w=500&q=80"
 },
 {
 "slug": "south-africa-beaded-charm-bracelet",
@@ -909,8 +909,8 @@ window.ACOMADA_PRODUCTS = [
 "country": "South Africa",
 "stamp": "ZA \u00b7 JHB",
 "price": 41,
-"group": "Mother Earth Ndebele Producer Group",
-"image": "https://images.unsplash.com/photo-1611652022419-a9419f74343d?w=500&q=80"
+"group": "Meadow Ndebele Producer Group",
+"image": "https://images.unsplash.com/photo-1742378543019-1867e95b417c?w=500&q=80"
 },
 {
 "slug": "south-africa-wire-woven-fruit-bowl",
@@ -920,8 +920,8 @@ window.ACOMADA_PRODUCTS = [
 "country": "South Africa",
 "stamp": "ZA \u00b7 DBN",
 "price": 53,
-"group": "Mother Earth Telephone-wire Artisans' Trust",
-"image": "https://images.unsplash.com/photo-1622560481956-b3d47c58d0e2?w=500&q=80"
+"group": "Meadow Telephone-wire Artisans' Trust",
+"image": "https://images.unsplash.com/photo-1674591409662-55f4f2c55fff?w=500&q=80"
 },
 {
 "slug": "south-africa-hand-formed-ring-set",
@@ -930,9 +930,9 @@ window.ACOMADA_PRODUCTS = [
 "region": "Africa",
 "country": "South Africa",
 "stamp": "ZA \u00b7 CPT",
-"price": 50,
-"group": "Sunrise Ceramic Women's Group",
-"image": "https://images.unsplash.com/photo-1631982690223-8aa4c9f9ce4c?w=500&q=80"
+"price": 32,
+"group": "Bright Path Ceramic Women's Group",
+"image": "https://images.unsplash.com/photo-1738754932729-6416b38f7cd6?w=500&q=80"
 },
 {
 "slug": "ethiopia-hand-woven-throw",
@@ -941,9 +941,9 @@ window.ACOMADA_PRODUCTS = [
 "region": "Africa",
 "country": "Ethiopia",
 "stamp": "ET \u00b7 ADD",
-"price": 82,
+"price": 70,
 "group": "Handmade Hand-spun Women's Group",
-"image": "https://images.unsplash.com/photo-1611930022073-b7a4ba5fcccd?w=500&q=80"
+"image": "https://images.unsplash.com/photo-1643766882273-335aae5a9309?w=500&q=80"
 },
 {
 "slug": "ethiopia-filigree-drop-earrings",
@@ -952,9 +952,9 @@ window.ACOMADA_PRODUCTS = [
 "region": "Africa",
 "country": "Ethiopia",
 "stamp": "ET \u00b7 GDR",
-"price": 44,
-"group": "Freeborn Silver Cooperative",
-"image": "https://images.unsplash.com/photo-1620656798579-1984d9e87df7?w=500&q=80"
+"price": 38,
+"group": "Coastal Silver Cooperative",
+"image": "https://images.unsplash.com/photo-1711352637516-b484936b8cd0?w=500&q=80"
 },
 {
 "slug": "ethiopia-coiled-laundry-hamper",
@@ -963,9 +963,9 @@ window.ACOMADA_PRODUCTS = [
 "region": "Africa",
 "country": "Ethiopia",
 "stamp": "ET \u00b7 ADD",
-"price": 44,
-"group": "Meadow Basket Collective",
-"image": "https://images.unsplash.com/photo-1617093727343-374698b1b08d?w=500&q=80"
+"price": 53,
+"group": "Freeborn Basket Collective",
+"image": "https://images.unsplash.com/photo-1578678809626-a3741782f0b8?w=500&q=80"
 },
 {
 "slug": "ethiopia-hand-woven-wrap-scarf",
@@ -974,9 +974,9 @@ window.ACOMADA_PRODUCTS = [
 "region": "Africa",
 "country": "Ethiopia",
 "stamp": "ET \u00b7 GDR",
-"price": 58,
-"group": "New Dawn Hand-spun Producer Group",
-"image": "https://images.unsplash.com/photo-1524492412937-b28074a5d7da?w=500&q=80"
+"price": 73,
+"group": "Handmade Hand-spun Producer Group",
+"image": "https://images.unsplash.com/photo-1638310533874-6c124c012e1d?w=500&q=80"
 },
 {
 "slug": "ethiopia-filigree-statement-collar",
@@ -985,9 +985,9 @@ window.ACOMADA_PRODUCTS = [
 "region": "Africa",
 "country": "Ethiopia",
 "stamp": "ET \u00b7 ADD",
-"price": 47,
-"group": "Coastal Silver Artisans' Trust",
-"image": "https://images.unsplash.com/photo-1599643477877-530eb83abc8e?w=500&q=80"
+"price": 32,
+"group": "Village Silver Artisans' Trust",
+"image": "https://images.unsplash.com/photo-1771250042399-c7ffc3e4d814?w=500&q=80"
 },
 {
 "slug": "tanzania-beaded-cuff",
@@ -996,9 +996,9 @@ window.ACOMADA_PRODUCTS = [
 "region": "Africa",
 "country": "Tanzania",
 "stamp": "TZ \u00b7 DAR",
-"price": 50,
-"group": "Sunrise Maasai Women's Group",
-"image": "https://images.unsplash.com/photo-1611591437281-460bfbe1220a?w=500&q=80"
+"price": 56,
+"group": "Little Hands Maasai Women's Group",
+"image": "https://images.unsplash.com/photo-1646070107254-3713cec279c1?w=500&q=80"
 },
 {
 "slug": "tanzania-carved-serving-board",
@@ -1007,9 +1007,9 @@ window.ACOMADA_PRODUCTS = [
 "region": "Africa",
 "country": "Tanzania",
 "stamp": "TZ \u00b7 ARU",
-"price": 72,
-"group": "Little Hands Makonde Cooperative",
-"image": "https://images.unsplash.com/photo-1609205807107-e8ec2120f9de?w=500&q=80"
+"price": 69,
+"group": "Golden Thread Makonde Cooperative",
+"image": "https://images.unsplash.com/photo-1558649332-07f21970d309?w=500&q=80"
 },
 {
 "slug": "tanzania-sisal-woven-laundry-hamper",
@@ -1018,9 +1018,9 @@ window.ACOMADA_PRODUCTS = [
 "region": "Africa",
 "country": "Tanzania",
 "stamp": "TZ \u00b7 DAR",
-"price": 47,
-"group": "Homeland Sisal Collective",
-"image": "https://images.unsplash.com/photo-1519025631705-d1c8c9c1a1ce?w=500&q=80"
+"price": 44,
+"group": "Harvest Sisal Collective",
+"image": "https://images.unsplash.com/photo-1455669175216-9017c9b02fc6?w=500&q=80"
 },
 {
 "slug": "tanzania-beaded-charm-bracelet",
@@ -1029,9 +1029,9 @@ window.ACOMADA_PRODUCTS = [
 "region": "Africa",
 "country": "Tanzania",
 "stamp": "TZ \u00b7 ARU",
-"price": 44,
-"group": "Sisterhood Maasai Producer Group",
-"image": "https://images.unsplash.com/photo-1611652022419-a9419f74343d?w=500&q=80"
+"price": 32,
+"group": "Freeborn Maasai Producer Group",
+"image": "https://images.unsplash.com/photo-1715374033196-0ff662284a7e?w=500&q=80"
 },
 {
 "slug": "tanzania-carved-coaster-set",
@@ -1040,9 +1040,9 @@ window.ACOMADA_PRODUCTS = [
 "region": "Africa",
 "country": "Tanzania",
 "stamp": "TZ \u00b7 DAR",
-"price": 72,
-"group": "Village Makonde Artisans' Trust",
-"image": "https://images.unsplash.com/photo-1594035910387-fea47794261f?w=500&q=80"
+"price": 78,
+"group": "Riverside Makonde Artisans' Trust",
+"image": "https://images.unsplash.com/photo-1606077089563-cff5a4f3d3d9?w=500&q=80"
 },
 {
 "slug": "uganda-raffia-woven-storage-basket",
@@ -1051,9 +1051,9 @@ window.ACOMADA_PRODUCTS = [
 "region": "Africa",
 "country": "Uganda",
 "stamp": "UG \u00b7 KLA",
-"price": 44,
-"group": "New Dawn Raffia Women's Group",
-"image": "https://images.unsplash.com/photo-1590422749897-47036da0b0ab?w=500&q=80"
+"price": 53,
+"group": "Heritage Raffia Women's Group",
+"image": "https://images.unsplash.com/photo-1626037235530-fe56de7d6459?w=500&q=80"
 },
 {
 "slug": "uganda-barkcloth-table-runner",
@@ -1062,9 +1062,9 @@ window.ACOMADA_PRODUCTS = [
 "region": "Africa",
 "country": "Uganda",
 "stamp": "UG \u00b7 JIN",
-"price": 82,
-"group": "Golden Thread Barkcloth Cooperative",
-"image": "https://images.unsplash.com/photo-1544441893-675973e31985?w=500&q=80"
+"price": 79,
+"group": "Mother Earth Barkcloth Cooperative",
+"image": "https://images.unsplash.com/photo-1773846012458-e6a66c26e49f?w=500&q=80"
 },
 {
 "slug": "uganda-raffia-woven-laundry-hamper",
@@ -1073,9 +1073,9 @@ window.ACOMADA_PRODUCTS = [
 "region": "Africa",
 "country": "Uganda",
 "stamp": "UG \u00b7 KLA",
-"price": 59,
-"group": "Village Raffia Collective",
-"image": "https://images.unsplash.com/photo-1595231712325-9fedd6624a3e?w=500&q=80"
+"price": 47,
+"group": "Homeland Raffia Collective",
+"image": "https://images.unsplash.com/photo-1601916862476-8bbfd397ba8a?w=500&q=80"
 },
 {
 "slug": "rwanda-coiled-sisal-storage-basket",
@@ -1084,9 +1084,9 @@ window.ACOMADA_PRODUCTS = [
 "region": "Africa",
 "country": "Rwanda",
 "stamp": "RW \u00b7 KGL",
-"price": 44,
-"group": "Meadow Agaseke Women's Group",
-"image": "https://images.unsplash.com/photo-1622560481956-b3d47c58d0e2?w=500&q=80"
+"price": 56,
+"group": "Sisterhood Agaseke Women's Group",
+"image": "https://images.unsplash.com/photo-1758784881676-68e4b9e26da2?w=500&q=80"
 },
 {
 "slug": "rwanda-coiled-sisal-market-basket",
@@ -1095,8 +1095,8 @@ window.ACOMADA_PRODUCTS = [
 "region": "Africa",
 "country": "Rwanda",
 "stamp": "RW \u00b7 HUY",
-"price": 41,
-"group": "Bright Path Agaseke Cooperative",
-"image": "https://images.unsplash.com/photo-1617093727343-374698b1b08d?w=500&q=80"
+"price": 50,
+"group": "New Dawn Agaseke Cooperative",
+"image": "https://images.unsplash.com/photo-1782216312755-42f2b13590c8?w=500&q=80"
 }
 ];
